@@ -1,7 +1,7 @@
 # Ingredients
 - avocado
 - lemon
--salt
+- salt
 # Instructions
-
+- Prepare avocado
 
